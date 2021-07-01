@@ -1,5 +1,6 @@
 [
     {
+        "ID": "SUPER-L",
         "PRODUCTNAME": "Large Wall Poster",
         "GRAPHICNAME": "Superman Running",
         "COSTPRICE": "5.00",
@@ -10,6 +11,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "SUPER-S",
         "PRODUCTNAME": "Small Superman Poster",
         "GRAPHICNAME": "Superman Jumping",
         "COSTPRICE": "4.00",
@@ -20,6 +22,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "SPIDER-L",
         "PRODUCTNAME": "Large Spiderman Poster",
         "GRAPHICNAME": "Spiderman Swinging",
         "COSTPRICE": "2.99",
@@ -30,6 +33,7 @@
         "BRAND": "Sony"
     },
     {
+        "ID": "SPIDER-S",
         "PRODUCTNAME": "Small Spiderman Poster",
         "GRAPHICNAME": "Spiderman Sitting on Roof",
         "COSTPRICE": "2.12",
@@ -40,6 +44,7 @@
         "BRAND": "Sony"
     },
     {
+        "ID": "SPIDER-M",
         "PRODUCTNAME": "Medium Spiderman Poster",
         "GRAPHICNAME": "Spiderman Web-sling",
         "COSTPRICE": "3.15",
@@ -50,6 +55,7 @@
         "BRAND": "Sony"
     },
     {
+        "ID": "WONDER-L",
         "PRODUCTNAME": "Large Wonder Woman Poster",
         "GRAPHICNAME": "Wonder Woman Fighting",
         "COSTPRICE": "2.15",
@@ -60,6 +66,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "WONDER-S",
         "PRODUCTNAME": "Small Wonder Woman Poster",
         "GRAPHICNAME": "Wonder Woman Jumping",
         "COSTPRICE": "3.14",
@@ -70,6 +77,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "WONDER-M",
         "PRODUCTNAME": "Medium Wonder Woman Poster",
         "GRAPHICNAME": "Wonder Woman Explosion",
         "COSTPRICE": "3.60",
@@ -80,6 +88,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "THOR-L",
         "PRODUCTNAME": "Large Thor Poster",
         "GRAPHICNAME": "Thor Hammer",
         "COSTPRICE": "2.80",
@@ -90,6 +99,7 @@
         "BRAND": "Marvel"
     },
     {
+        "ID": "THOR-M",
         "PRODUCTNAME": "Medium Thor Poster",
         "GRAPHICNAME": "Thor Lightning",
         "COSTPRICE": "2.89",
@@ -100,6 +110,7 @@
         "BRAND": "Marvel"
     },
     {
+        "ID": "THOR-S",
         "PRODUCTNAME": "Small Thor Poster",
         "GRAPHICNAME": "Thor Smash",
         "COSTPRICE": "1.99",
@@ -110,6 +121,7 @@
         "BRAND": "Marvel"
     },
     {
+        "ID": "LOKI-L",
         "PRODUCTNAME": "Large Loki Poster",
         "GRAPHICNAME": "Loki Standing",
         "COSTPRICE": "4.59",
@@ -120,6 +132,7 @@
         "BRAND": "Marvel"
     },
     {
+        "ID": "LOKI-S",
         "PRODUCTNAME": "Small Loki Poster",
         "GRAPHICNAME": "Loki Gazing",
         "COSTPRICE": "2.13",
@@ -130,6 +143,7 @@
         "BRAND": "Marvel"
     },
     {
+        "ID": "DOC-L",
         "PRODUCTNAME": "Large Doctor Octopus Poster",
         "GRAPHICNAME": "Doc Oc Climbing",
         "COSTPRICE": "1.89",
@@ -140,6 +154,7 @@
         "BRAND": "Sony"
     },
     {
+        "ID": "BAT-L",
         "PRODUCTNAME": "Large Batman Poster",
         "GRAPHICNAME": "Batman Holding Joker",
         "COSTPRICE": "3.88",
@@ -150,6 +165,7 @@
         "BRAND": "DC Films"
     },
     {
+        "ID": "BAT-S",
         "PRODUCTNAME": "Small Batman Poster",
         "GRAPHICNAME": "Batman Bat-Mobile",
         "COSTPRICE": "2.99",

@@ -1,0 +1,162 @@
+[
+    {
+        "PRODUCTNAME": "Large Wall Poster",
+        "GRAPHICNAME": "Superman Running",
+        "COSTPRICE": "5.00",
+        "MSRP": "19.99",
+        "QTYONHAND": "23",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A large wall poster featuring the one and only Superman in a running pose.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Small Superman Poster",
+        "GRAPHICNAME": "Superman Jumping",
+        "COSTPRICE": "4.00",
+        "MSRP": "17.99",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "4",
+        "DESCRIPTION": "A small wall poster featuring the one and only Superman in a jumping pose.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Large Spiderman Poster",
+        "GRAPHICNAME": "Spiderman Swinging",
+        "COSTPRICE": "2.99",
+        "MSRP": "24.99",
+        "QTYONHAND": "51",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A large wall poster featuring the one and only Spiderman in a swinging pose.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRODUCTNAME": "Small Spiderman Poster",
+        "GRAPHICNAME": "Spiderman Sitting on Roof",
+        "COSTPRICE": "2.12",
+        "MSRP": "20.99",
+        "QTYONHAND": "34",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A small wall poster featuring the one and only Spiderman sitting on a roof.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRODUCTNAME": "Medium Spiderman Poster",
+        "GRAPHICNAME": "Spiderman Web-sling",
+        "COSTPRICE": "3.15",
+        "MSRP": "22.45",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "40",
+        "DESCRIPTION": "A medium wall poster featuring the one and only Spiderman web-slinging.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRODUCTNAME": "Large Wonder Woman Poster",
+        "GRAPHICNAME": "Wonder Woman Fighting",
+        "COSTPRICE": "2.15",
+        "MSRP": "25.99",
+        "QTYONHAND": "22",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A large wall poster featuring the one and only Wonder Woman in a fighting pose.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Small Wonder Woman Poster",
+        "GRAPHICNAME": "Wonder Woman Jumping",
+        "COSTPRICE": "3.14",
+        "MSRP": "19.99",
+        "QTYONHAND": "12",
+        "QTYONBACKORDER": "4",
+        "DESCRIPTION": "A small wall poster featuring the one and only Wonder Woman in a jumping pose.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Medium Wonder Woman Poster",
+        "GRAPHICNAME": "Wonder Woman Explosion",
+        "COSTPRICE": "3.60",
+        "MSRP": "21.99",
+        "QTYONHAND": "50",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A medium wall poster featuring the one and only Wonder Woman infront of an explosion.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Large Thor Poster",
+        "GRAPHICNAME": "Thor Hammer",
+        "COSTPRICE": "2.80",
+        "MSRP": "34.99",
+        "QTYONHAND": "43",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A large wall poster featuring the one and only Thor in front of is hammer.",
+        "BRAND": "Marvel"
+    },
+    {
+        "PRODUCTNAME": "Medium Thor Poster",
+        "GRAPHICNAME": "Thor Lightning",
+        "COSTPRICE": "2.89",
+        "MSRP": "30.99",
+        "QTYONHAND": "67",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A medium wall poster featuring the one and only Thor in front of a lightning bolt.",
+        "BRAND": "Marvel"
+    },
+    {
+        "PRODUCTNAME": "Small Thor Poster",
+        "GRAPHICNAME": "Thor Smash",
+        "COSTPRICE": "1.99",
+        "MSRP": "22.99",
+        "QTYONHAND": "7",
+        "QTYONBACKORDER": "3",
+        "DESCRIPTION": "A small wall poster featuring the one and only Thor smashing his hammer.",
+        "BRAND": "Marvel"
+    },
+    {
+        "PRODUCTNAME": "Large Loki Poster",
+        "GRAPHICNAME": "Loki Standing",
+        "COSTPRICE": "4.59",
+        "MSRP": "38.99",
+        "QTYONHAND": "67",
+        "QTYONBACKORDER": "12",
+        "DESCRIPTION": "A large wall poster featuring the one and only Loki in a standing pose.",
+        "BRAND": "Marvel"
+    },
+    {
+        "PRODUCTNAME": "Small Loki Poster",
+        "GRAPHICNAME": "Loki Gazing",
+        "COSTPRICE": "2.13",
+        "MSRP": "30.99",
+        "QTYONHAND": "3",
+        "QTYONBACKORDER": "15",
+        "DESCRIPTION": "A small wall poster featuring the one and only Loki gazing off into the distance.",
+        "BRAND": "Marvel"
+    },
+    {
+        "PRODUCTNAME": "Large Doctor Octopus Poster",
+        "GRAPHICNAME": "Doc Oc Climbing",
+        "COSTPRICE": "1.89",
+        "MSRP": "18.88",
+        "QTYONHAND": "45",
+        "QTYONBACKORDER": "0",
+        "DESCRIPTION": "A large wall poster featuring the one and only Doctor Octopus climbing a building.",
+        "BRAND": "Sony"
+    },
+    {
+        "PRODUCTNAME": "Large Batman Poster",
+        "GRAPHICNAME": "Batman Holding Joker",
+        "COSTPRICE": "3.88",
+        "MSRP": "34.89",
+        "QTYONHAND": "33",
+        "QTYONBACKORDER": "7",
+        "DESCRIPTION": "A large wall poster featuring the one and only Batman holding his enemy the Joker.",
+        "BRAND": "DC Films"
+    },
+    {
+        "PRODUCTNAME": "Small Batman Poster",
+        "GRAPHICNAME": "Batman Bat-Mobile",
+        "COSTPRICE": "2.99",
+        "MSRP": "24.99",
+        "QTYONHAND": "0",
+        "QTYONBACKORDER": "30",
+        "DESCRIPTION": "A small wall poster featuring the one and only Batman driving his bat-mobile.",
+        "BRAND": "DC Films"
+    }
+]

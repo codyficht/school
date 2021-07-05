@@ -2,7 +2,7 @@
     {
         "ID": "SUPER-L",
         "PRODUCTNAME": "Large Wall Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "supermanrunning.jpg",
         "COSTPRICE": "5.00",
         "MSRP": "19.99",
         "QTYONHAND": "23",
@@ -13,7 +13,7 @@
     {
         "ID": "SUPER-S",
         "PRODUCTNAME": "Small Superman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "supermanjumping.jpg",
         "COSTPRICE": "4.00",
         "MSRP": "17.99",
         "QTYONHAND": "0",
@@ -24,7 +24,7 @@
     {
         "ID": "SPIDER-L",
         "PRODUCTNAME": "Large Spiderman Poster",
-        "GRAPHICNAME": "Sony.jpg",
+        "GRAPHICNAME": "spidermanswinging.jpg",
         "COSTPRICE": "2.99",
         "MSRP": "24.99",
         "QTYONHAND": "51",
@@ -35,7 +35,7 @@
     {
         "ID": "SPIDER-S",
         "PRODUCTNAME": "Small Spiderman Poster",
-        "GRAPHICNAME": "Sony.jpg",
+        "GRAPHICNAME": "spidermanroof.jpg",
         "COSTPRICE": "2.12",
         "MSRP": "20.99",
         "QTYONHAND": "34",
@@ -46,7 +46,7 @@
     {
         "ID": "SPIDER-M",
         "PRODUCTNAME": "Medium Spiderman Poster",
-        "GRAPHICNAME": "Sony.jpg",
+        "GRAPHICNAME": "spidermanweb.jpg",
         "COSTPRICE": "3.15",
         "MSRP": "22.45",
         "QTYONHAND": "0",
@@ -57,7 +57,7 @@
     {
         "ID": "WONDER-L",
         "PRODUCTNAME": "Large Wonder Woman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "wonderfighting.jpg",
         "COSTPRICE": "2.15",
         "MSRP": "25.99",
         "QTYONHAND": "22",
@@ -68,7 +68,7 @@
     {
         "ID": "WONDER-S",
         "PRODUCTNAME": "Small Wonder Woman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "wonderjumping.jpg",
         "COSTPRICE": "3.14",
         "MSRP": "19.99",
         "QTYONHAND": "12",
@@ -79,7 +79,7 @@
     {
         "ID": "WONDER-M",
         "PRODUCTNAME": "Medium Wonder Woman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "wonderexplosion.jpg",
         "COSTPRICE": "3.60",
         "MSRP": "21.99",
         "QTYONHAND": "50",
@@ -90,7 +90,7 @@
     {
         "ID": "THOR-L",
         "PRODUCTNAME": "Large Thor Poster",
-        "GRAPHICNAME": "Marvel.jpg",
+        "GRAPHICNAME": "thorhammer.jpg",
         "COSTPRICE": "2.80",
         "MSRP": "34.99",
         "QTYONHAND": "43",
@@ -101,7 +101,7 @@
     {
         "ID": "THOR-M",
         "PRODUCTNAME": "Medium Thor Poster",
-        "GRAPHICNAME": "Marvel.jpg",
+        "GRAPHICNAME": "thorlight.jpg",
         "COSTPRICE": "2.89",
         "MSRP": "30.99",
         "QTYONHAND": "67",
@@ -112,7 +112,7 @@
     {
         "ID": "THOR-S",
         "PRODUCTNAME": "Small Thor Poster",
-        "GRAPHICNAME": "Marvel.jpg",
+        "GRAPHICNAME": "thorsmash.jpg",
         "COSTPRICE": "1.99",
         "MSRP": "22.99",
         "QTYONHAND": "7",
@@ -123,7 +123,7 @@
     {
         "ID": "LOKI-L",
         "PRODUCTNAME": "Large Loki Poster",
-        "GRAPHICNAME": "Marvel.jpg",
+        "GRAPHICNAME": "lokistanding.jpg",
         "COSTPRICE": "4.59",
         "MSRP": "38.99",
         "QTYONHAND": "67",
@@ -134,7 +134,7 @@
     {
         "ID": "LOKI-S",
         "PRODUCTNAME": "Small Loki Poster",
-        "GRAPHICNAME": "Marvel.jpg",
+        "GRAPHICNAME": "lokigaze.jpg",
         "COSTPRICE": "2.13",
         "MSRP": "30.99",
         "QTYONHAND": "3",
@@ -145,7 +145,7 @@
     {
         "ID": "DOC-L",
         "PRODUCTNAME": "Large Doctor Octopus Poster",
-        "GRAPHICNAME": "Sony.jpg",
+        "GRAPHICNAME": "docclimb.jpg",
         "COSTPRICE": "1.89",
         "MSRP": "18.88",
         "QTYONHAND": "45",
@@ -156,7 +156,7 @@
     {
         "ID": "BAT-L",
         "PRODUCTNAME": "Large Batman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "batmanjoker.jpg",
         "COSTPRICE": "3.88",
         "MSRP": "34.89",
         "QTYONHAND": "33",
@@ -167,7 +167,7 @@
     {
         "ID": "BAT-S",
         "PRODUCTNAME": "Small Batman Poster",
-        "GRAPHICNAME": "DCFilms.jpg",
+        "GRAPHICNAME": "batmobile.jpg",
         "COSTPRICE": "2.99",
         "MSRP": "24.99",
         "QTYONHAND": "0",

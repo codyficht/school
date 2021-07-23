@@ -5,7 +5,7 @@
         "GRAPHICNAME": "supermanrunning.jpg",
         "COSTPRICE": "5.00",
         "MSRP": "19.99",
-        "QTYONHAND": "23",
+        "QTYONHAND": "1",
         "QTYONBACKORDER": "0",
         "DESCRIPTION": "A large wall poster featuring the one and only Superman in a running pose.",
         "BRAND": "DC Films"
@@ -17,7 +17,7 @@
         "COSTPRICE": "4.00",
         "MSRP": "17.99",
         "QTYONHAND": "0",
-        "QTYONBACKORDER": "4",
+        "QTYONBACKORDER": "1",
         "DESCRIPTION": "A small wall poster featuring the one and only Superman in a jumping pose.",
         "BRAND": "DC Films"
     },
